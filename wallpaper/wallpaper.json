@@ -1,4 +1,5 @@
-[
+{
+  "Wallpapers": [
 	{
 		"name": "Purple Night Sky",
 		"author": "Luck Galindo",
@@ -44,7 +45,7 @@
 		"size": 1642321,
 		"dimensions": "4347 x 5953 px",
 	},
-  {
+	{
 		"name": "Trees Under Starry Night",
 		"author": "Zetong Li",
 		"url": "https://github.com/lfelipehdezlopez/stariconpack/raw/master/wallpaper/wal06.jpg",
@@ -53,7 +54,7 @@
 		"size": 2443087,
 		"dimensions": "2658 x 3993 px",
 	},
-  {
+	{
 		"name": "Road at Night",
 		"author": "Tomas Anunziata",
 		"url": "https://github.com/lfelipehdezlopez/stariconpack/raw/master/wallpaper/wal07.jpg",
@@ -62,7 +63,7 @@
 		"size": 6468503,
 		"dimensions": "3648 x 5472 px",
 	},
-  {
+	{
 		"name": "Lighted Roadside Rings",
 		"author": "Pixabay",
 		"url": "https://github.com/lfelipehdezlopez/stariconpack/raw/master/wallpaper/wal08.jpg",
@@ -71,7 +72,7 @@
 		"size": 4115006,
 		"dimensions": "5472 x 3648 px",
 	},
-  {
+	{
 		"name": "Castle Under Starry Night",
 		"author": "Eberhard Grossgasteiger",
 		"url": "https://github.com/lfelipehdezlopez/stariconpack/raw/master/wallpaper/wal09.jpg",
@@ -80,7 +81,7 @@
 		"size": 1733127,
 		"dimensions": "3333 x 5000 px",
 	},
-  {
+	{
 		"name": "Cat at Full Moon",
 		"author": "Pixabay",
 		"url": "https://github.com/lfelipehdezlopez/stariconpack/raw/master/wallpaper/wal10.jpg",
@@ -89,4 +90,5 @@
 		"size": 38351,
 		"dimensions": "1920 x 1282 px",
 	},
-]
+  ]
+}
